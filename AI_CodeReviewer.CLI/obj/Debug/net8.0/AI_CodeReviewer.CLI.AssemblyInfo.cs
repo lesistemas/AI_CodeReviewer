@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AI_CodeReviewer.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a83e8183bd42c001127f581fe0e0b5d2b7f25c99")]
 [assembly: System.Reflection.AssemblyProductAttribute("AI_CodeReviewer.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AI_CodeReviewer.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

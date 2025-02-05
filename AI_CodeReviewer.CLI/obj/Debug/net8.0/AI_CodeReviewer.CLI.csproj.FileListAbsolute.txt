@@ -12,3 +12,4 @@ C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj
 C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.pdb
 C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.genruntimeconfig.cache
 C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\ref\AI_CodeReviewer.CLI.dll
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.sourcelink.json
