@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AI_CodeReviewer.CLI/1.0.0": {
+        "runtime": {
+          "AI_CodeReviewer.CLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI_CodeReviewer.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

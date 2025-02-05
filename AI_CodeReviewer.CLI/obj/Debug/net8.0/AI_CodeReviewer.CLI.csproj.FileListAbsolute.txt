@@ -1,0 +1,14 @@
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\bin\Debug\net8.0\AI_CodeReviewer.CLI.exe
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\bin\Debug\net8.0\AI_CodeReviewer.CLI.deps.json
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\bin\Debug\net8.0\AI_CodeReviewer.CLI.runtimeconfig.json
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\bin\Debug\net8.0\AI_CodeReviewer.CLI.dll
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\bin\Debug\net8.0\AI_CodeReviewer.CLI.pdb
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.AssemblyInfoInputs.cache
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.AssemblyInfo.cs
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.csproj.CoreCompileInputs.cache
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.dll
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\refint\AI_CodeReviewer.CLI.dll
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.pdb
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\AI_CodeReviewer.CLI.genruntimeconfig.cache
+C:\Users\le_si\Documents\Projetos\Testes\AI_CodeReviewer\AI_CodeReviewer.CLI\obj\Debug\net8.0\ref\AI_CodeReviewer.CLI.dll
